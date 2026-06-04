@@ -7,7 +7,7 @@ El modelo fue entrenado y validado utilizando el dataset especializado **TACO (T
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 * **Danna Andrea Rodriguez Galarcio** - 30000101050
 * **Kevin Manuel Gallego Aponzá** - 30000118862
 
